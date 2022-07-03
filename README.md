@@ -1,4 +1,4 @@
-# chatboot_rl_nlp
+# chat-bot-reinfocement-learning
 
 A new Flutter project.
 
